@@ -1,4 +1,3 @@
 # NotificationDrawable
 Set Notification Counter 
-
-Set counter to  menu
+You can change badge color in color.xml
